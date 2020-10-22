@@ -1,2 +1,3 @@
 # Absenteeism-Data-Analysis
-Analysis of the office employer data. Why they are absent during working hour?.
+
+Analyze the data of the company's employer. Why are they absent during work?
